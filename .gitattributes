@@ -1,0 +1,2 @@
+*.full filter=lfs diff=lfs merge=lfs -text
+*.minidump filter=lfs diff=lfs merge=lfs -text
